@@ -56,5 +56,5 @@ A secure Python CLI application that stores and retrieves encrypted passwords us
 
 4. Run the application:
    ```bash
-   python main.py
+   python Command-Line Password Manager.py
    ```
