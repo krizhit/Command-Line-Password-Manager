@@ -30,7 +30,7 @@ A secure Python CLI application that stores and retrieves encrypted passwords us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/krizhit/cli-password-manager.git
+   git clone https://github.com/krizhit/Command-Line-Password-Manager.git
    cd cli-password-manager
    ```
 
